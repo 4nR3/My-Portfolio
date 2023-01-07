@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.9546e258.css",
-    "main.js": "/My-Portfolio/static/js/main.542907fc.js",
+    "main.css": "/My-Portfolio/static/css/main.fa9d3913.css",
+    "main.js": "/My-Portfolio/static/js/main.15840529.js",
     "static/media/HomeHTML.jpg": "/My-Portfolio/static/media/HomeHTML.a56256b9a93e07c69727.jpg",
     "static/media/CardsSuperheroes.png": "/My-Portfolio/static/media/CardsSuperheroes.a50e1d3eb294a70d880c.png",
     "static/media/limon.png": "/My-Portfolio/static/media/limon.6daf08a25e845b46f98b.png",
@@ -17,11 +17,11 @@
     "static/media/revicons.woff": "/My-Portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/logo.svg": "/My-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/My-Portfolio/index.html",
-    "main.9546e258.css.map": "/My-Portfolio/static/css/main.9546e258.css.map",
-    "main.542907fc.js.map": "/My-Portfolio/static/js/main.542907fc.js.map"
+    "main.fa9d3913.css.map": "/My-Portfolio/static/css/main.fa9d3913.css.map",
+    "main.15840529.js.map": "/My-Portfolio/static/js/main.15840529.js.map"
   },
   "entrypoints": [
-    "static/css/main.9546e258.css",
-    "static/js/main.542907fc.js"
+    "static/css/main.fa9d3913.css",
+    "static/js/main.15840529.js"
   ]
 }
